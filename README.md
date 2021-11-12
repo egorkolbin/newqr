@@ -1,1 +1,1 @@
-# newqr
+# https://egorkolbin.github.io/newqr/
